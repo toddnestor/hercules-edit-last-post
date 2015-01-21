@@ -1,17 +1,17 @@
 <?php
-/*
-Plugin Name: Hercules Edit Last Post
-Description: Adds a link to edit your last post under the posts menu.
-Author: Todd D. Nestor - todd.nestor@gmail.com
-Version: 1.0
-License: GNU General Public License v3 or later
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
-*/
+    /*
+    Plugin Name: Hercules Edit Last Post
+    Description: Adds a link to edit your last post under the posts menu.
+    Author: Todd D. Nestor - todd.nestor@gmail.com
+    Version: 1.0
+    License: GNU General Public License v3 or later
+    License URI: http://www.gnu.org/licenses/gpl-3.0.html
+    */
 
-/**
- * Class HercEditLastPost 
- *
- */
+    /**
+     * Class HercEditLastPost 
+     *
+     */
     class HercEditLastPost
     {
         /**
@@ -57,7 +57,6 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
         }
     }
     
-//SInitiatest the class    
-$herc_edit_last_post = new HercEditLastPost;
-
+    //SInitiatest the class    
+    $herc_edit_last_post = new HercEditLastPost;
 ?>
